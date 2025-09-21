@@ -3,12 +3,12 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/robertbarber512-jpg/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/robertbarber512-jpg/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/robertbarber512-jpg/ticket-lifecycle)
+  
+  - [osTicket: Post-Installation Configuration](https://github.com/robertbarber512-jpg/osticket)
+  
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/robertbarber512-jpg/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/robertbarber512-jpg/azure-network-protocols)
+  - [Using Remote Desktop to connect within Azure VMs](https://github.com/robertbarber512-jpg/Microsoft-Azure)
+  
 
 <h2>🤳Connect with me:</h2>
 
